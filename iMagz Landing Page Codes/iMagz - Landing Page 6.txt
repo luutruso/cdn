@@ -1,0 +1,69 @@
+<div class='pG pG-06'>
+  <div class='pgCont'>
+    <div class='secIn'>
+      <div class='widget HTML'>
+        <div class='content'>
+          <!--[ Title ]-->
+          <h2 class='title'>Keunggulan template iMagz</h2>
+
+          <ul class='mf'>
+            <li>
+              <!--[ Icon SVG ]-->
+              <svg viewbox='0 0 48 48'><path d='M45,10H44V9a2.9,2.9,0,0,0-3-3H24V5a3,3,0,0,0-3-3H3A3,3,0,0,0,0,5V45a3,3,0,0,0,3,3H45a3,3,0,0,0,3-3V13A3,3,0,0,0,45,10ZM24,8H41a.9.9,0,0,1,1,1v1H24ZM46,45a1,1,0,0,1-1,1H3a1,1,0,0,1-1-1V5A1,1,0,0,1,3,4H21a1,1,0,0,1,1,1v5H12v2H45a1,1,0,0,1,1,1Z'></path><path d='M30,19v2h3.59l-7,7H18a1,1,0,0,0-.71.29l-6,6,1.41,1.41L18.41,30H27a1,1,0,0,0,.71-.29L35,22.41V26h2V20a1,1,0,0,0-1-1Z'></path></svg>
+          
+              <div class='t'>
+                <strong>Loading lebih cepat</strong>
+                <p>Dioptimalkan dengan memperkecil ukuran template seperti kompres CSS dan Javascript agar loading lebih cepat</p>
+              </div>
+            </li>
+            <li>
+              <!--[ Icon SVG ]-->
+              <svg viewbox='0 0 48 48'><path d='M45,10H44V9a2.9,2.9,0,0,0-3-3H24V5a3,3,0,0,0-3-3H3A3,3,0,0,0,0,5V45a3,3,0,0,0,3,3H45a3,3,0,0,0,3-3V13A3,3,0,0,0,45,10ZM24,8H41a.9.9,0,0,1,1,1v1H24ZM46,45a1,1,0,0,1-1,1H3a1,1,0,0,1-1-1V5A1,1,0,0,1,3,4H21a1,1,0,0,1,1,1v5H12v2H45a1,1,0,0,1,1,1Z'></path><path d='M30,19v2h3.59l-7,7H18a1,1,0,0,0-.71.29l-6,6,1.41,1.41L18.41,30H27a1,1,0,0,0,.71-.29L35,22.41V26h2V20a1,1,0,0,0-1-1Z'></path></svg>
+          
+              <div class='t'>
+                <strong>SEO Friendly</strong>
+                <p>Template didesain SEO Friendly mulai dari breadcrumb yang sudah terindex google sampai schema markup lainnya</p>
+              </div>
+            </li>
+            <li>
+              <!--[ Icon SVG ]-->
+              <svg viewbox='0 0 48 48'><path d='M45,10H44V9a2.9,2.9,0,0,0-3-3H24V5a3,3,0,0,0-3-3H3A3,3,0,0,0,0,5V45a3,3,0,0,0,3,3H45a3,3,0,0,0,3-3V13A3,3,0,0,0,45,10ZM24,8H41a.9.9,0,0,1,1,1v1H24ZM46,45a1,1,0,0,1-1,1H3a1,1,0,0,1-1-1V5A1,1,0,0,1,3,4H21a1,1,0,0,1,1,1v5H12v2H45a1,1,0,0,1,1,1Z'></path><path d='M30,19v2h3.59l-7,7H18a1,1,0,0,0-.71.29l-6,6,1.41,1.41L18.41,30H27a1,1,0,0,0,.71-.29L35,22.41V26h2V20a1,1,0,0,0-1-1Z'></path></svg>
+          
+              <div class='t'>
+                <strong>Fully Responsive</strong>
+                <p>Ukuran template flesibel menyesuaikan disetiap layar serta layout yang disusun rapi dengan memaksimalkan kinerja CSS</p>
+              </div>
+            </li>
+            <li>
+              <!--[ Icon SVG ]-->
+              <svg viewbox='0 0 48 48'><path d='M45,10H44V9a2.9,2.9,0,0,0-3-3H24V5a3,3,0,0,0-3-3H3A3,3,0,0,0,0,5V45a3,3,0,0,0,3,3H45a3,3,0,0,0,3-3V13A3,3,0,0,0,45,10ZM24,8H41a.9.9,0,0,1,1,1v1H24ZM46,45a1,1,0,0,1-1,1H3a1,1,0,0,1-1-1V5A1,1,0,0,1,3,4H21a1,1,0,0,1,1,1v5H12v2H45a1,1,0,0,1,1,1Z'></path><path d='M30,19v2h3.59l-7,7H18a1,1,0,0,0-.71.29l-6,6,1.41,1.41L18.41,30H27a1,1,0,0,0,.71-.29L35,22.41V26h2V20a1,1,0,0,0-1-1Z'></path></svg>
+          
+              <div class='t'>
+                <strong>Dioptimalkan untuk iklan</strong>
+                <p>Sudah disediakan slot iklan adsense yang siap pakai pada lokasi dengan click rate tinggi</p>
+              </div>
+            </li>
+            <li>
+              <!--[ Icon SVG ]-->
+              <svg viewbox='0 0 48 48'><path d='M45,10H44V9a2.9,2.9,0,0,0-3-3H24V5a3,3,0,0,0-3-3H3A3,3,0,0,0,0,5V45a3,3,0,0,0,3,3H45a3,3,0,0,0,3-3V13A3,3,0,0,0,45,10ZM24,8H41a.9.9,0,0,1,1,1v1H24ZM46,45a1,1,0,0,1-1,1H3a1,1,0,0,1-1-1V5A1,1,0,0,1,3,4H21a1,1,0,0,1,1,1v5H12v2H45a1,1,0,0,1,1,1Z'></path><path d='M30,19v2h3.59l-7,7H18a1,1,0,0,0-.71.29l-6,6,1.41,1.41L18.41,30H27a1,1,0,0,0,.71-.29L35,22.41V26h2V20a1,1,0,0,0-1-1Z'></path></svg>
+          
+              <div class='t'>
+                <strong>Lebih mudah digunakan</strong>
+                <p>Sangat mudah untuk mengubah warna, lebar sampai font melalui Desainer Tema Blogger termasuk pengaturan widget pada menu Layout</p>
+              </div>
+            </li>
+            <li>
+              <!--[ Icon SVG ]-->
+              <svg viewbox='0 0 48 48'><path d='M45,10H44V9a2.9,2.9,0,0,0-3-3H24V5a3,3,0,0,0-3-3H3A3,3,0,0,0,0,5V45a3,3,0,0,0,3,3H45a3,3,0,0,0,3-3V13A3,3,0,0,0,45,10ZM24,8H41a.9.9,0,0,1,1,1v1H24ZM46,45a1,1,0,0,1-1,1H3a1,1,0,0,1-1-1V5A1,1,0,0,1,3,4H21a1,1,0,0,1,1,1v5H12v2H45a1,1,0,0,1,1,1Z'></path><path d='M30,19v2h3.59l-7,7H18a1,1,0,0,0-.71.29l-6,6,1.41,1.41L18.41,30H27a1,1,0,0,0,.71-.29L35,22.41V26h2V20a1,1,0,0,0-1-1Z'></path></svg>
+          
+              <div class='t'>
+                <strong>Diperbarui secara berkala</strong>
+                <p>Kami selalu memperbarui template secara berkala serta menambah fitur atau memperbaiki beberapa bug yang muncul</p>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

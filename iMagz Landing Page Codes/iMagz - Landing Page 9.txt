@@ -1,0 +1,82 @@
+<div class='pG pG-09'>
+  <div class='pgCont'>
+    <div class='secIn'>
+      <div class='widget'>
+        <!--[ Title ]-->
+        <h2 class='title'>Common questions</h2>
+
+        <div class='content'>
+          <p>*Beberapa pertanyaan yang sering ditanyakan oleh pembeli. <a href='#'>Selengkapnya</a></p>
+
+          <!--[ Accordion start ]-->
+          <ul class='accordion'>
+
+            <!--[ Accordion line 1 ]-->
+            <li>
+              <div class='accorContent'>
+                <input class='accorMenu hidden' id='offaccor-menu1' name='accordion-menu' type='checkbox'/>
+                <label class='accorTitle' for='offaccor-menu1'>
+                  <i class='accorIcon'></i>
+        
+                  <!--[ Question ]-->
+                  <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit</span>
+                </label>
+
+                <!--[ Answer ]-->
+                <div class='content'>Proin vestibulum dignissim diam, et efficitur felis commodo et. Mauris vel diam pellentesque lorem lacinia luctus. Nulla quam magna, pharetra in ultrices at, condimentum id tellus.</div>
+              </div>
+            </li>
+  
+            <!--[ Accordion line 2 ]-->
+            <li>
+              <div class='accorContent'>
+                <input class='accorMenu hidden' id='offaccor-menu2' name='accordion-menu' type='checkbox'/>
+                <label class='accorTitle' for='offaccor-menu2'>
+                  <i class='accorIcon'></i>
+        
+                  <!--[ Question ]-->
+                  <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit</span>
+                </label>
+
+                <!--[ Answer ]-->
+                <div class='content'>Proin vestibulum dignissim diam, et efficitur felis commodo et. Mauris vel diam pellentesque lorem lacinia luctus. Nulla quam magna, pharetra in ultrices at, condimentum id tellus.</div>
+              </div>
+            </li>
+  
+            <!--[ Accordion line 3 ]-->
+            <li>
+              <div class='accorContent'>
+                <input class='accorMenu hidden' id='offaccor-menu3' name='accordion-menu' type='checkbox'/>
+                <label class='accorTitle' for='offaccor-menu3'>
+                  <i class='accorIcon'></i>
+        
+                  <!--[ Question ]-->
+                  <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit</span>
+                </label>
+
+                <!--[ Answer ]-->
+                <div class='content'>Proin vestibulum dignissim diam, et efficitur felis commodo et. Mauris vel diam pellentesque lorem lacinia luctus. Nulla quam magna, pharetra in ultrices at, condimentum id tellus.</div>
+              </div>
+            </li>
+  
+            <!--[ Accordion line 4 ]-->
+            <li>
+              <div class='accorContent'>
+                <input class='accorMenu hidden' id='offaccor-menu4' name='accordion-menu' type='checkbox'/>
+                <label class='accorTitle' for='offaccor-menu4'>
+                  <i class='accorIcon'></i>
+        
+                  <!--[ Question ]-->
+                  <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit</span>
+                </label>
+
+                <!--[ Answer ]-->
+                <div class='content'>Proin vestibulum dignissim diam, et efficitur felis commodo et. Mauris vel diam pellentesque lorem lacinia luctus. Nulla quam magna, pharetra in ultrices at, condimentum id tellus.</div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,19 @@
+<div class='lPage'>
+<!--[ Landing page start ]-->
+
+  
+</div>
+
+<!--[ Custom style ]-->
+<style>/*<![CDATA[*/
+  #notif-widget, .brdCmb, .pTtl.itm, .pInf.onPs, .pSh, .pAd, .admPs, .pFoot, .mainIn .blogTopc, .blogCont::after, .blogCont::before{display:none}
+  .mainIn{padding:0}
+  .mainIn >.secIn{display:block;max-width:none;padding:0}
+  .mainIn .blogCont{width:100%}
+  .onPg .blogCont, .onPst .blogPts{max-width:none;width:100%}
+  .onPst .blogM{padding-bottom:0}
+  .onItm .pEnt{margin-top:0}
+  .pBd .widget, .blogItm .widget:not(:first-child){margin:0}
+  .mainIn .blogCont,
+  .pG-07 .secIn, .pG-07 .secIn >*, .pG-09 .secIn, .pG-09 .secIn >*{display:block}
+/*]]>*/</style>
